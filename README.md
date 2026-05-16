@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-16 05:00 ICT]**
+
+* **VI**: Mỗi lỗi là một bài học miễn phí. Hôm nay, hãy tìm một lỗi để sửa.
+* **EN**: Every bug is a free lesson. Today, find one to fix.
+
+---
+
 **[2026-05-16 23:26 ICT]**
 
 * **VI**: Chất lượng sinh ra từ sự chú ý. Làm tốt một việc hôm nay thay vì vội vàng hoàn thành mười việc.
