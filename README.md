@@ -8,6 +8,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 **[2026-05-16 05:00 ICT]**
 
+* **VI**: Câu hỏi tốt hơn dẫn đến khám phá tốt hơn. Hôm nay, hãy đặt câu hỏi khác so với hôm qua.
+* **EN**: Better questions lead to better discoveries. Today, ask differently than you did yesterday.
+
+---
+
+**[2026-05-16 05:00 ICT]**
+
 * **VI**: Chậm lại để hiểu. Code rõ ràng nhất đến từ tư duy rõ ràng nhất.
 * **EN**: Slow down to understand. The clearest code comes from the clearest thinking.
 
