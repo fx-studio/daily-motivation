@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-16 23:26 ICT]**
+
+* **VI**: Chất lượng sinh ra từ sự chú ý. Làm tốt một việc hôm nay thay vì vội vàng hoàn thành mười việc.
+* **EN**: Quality emerges from attention. Do one thing well today rather than rush through ten.
+
+---
+
 **[2026-05-16 05:00 ICT]**
 
 * **VI**: Câu hỏi tốt hơn dẫn đến khám phá tốt hơn. Hôm nay, hãy đặt câu hỏi khác so với hôm qua.
