@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-18 05:02 ICT]**
+
+* **VI**: Khi code khó hiểu, nó đang dạy bạn điều gì đó. Hôm nay, kiên nhẫn với độ phức tạp.
+* **EN**: When code is hard to understand, it's teaching you something. Today, be patient with complexity.
+
+---
+
 **[2026-05-16 05:00 ICT]**
 
 * **VI**: Mỗi lỗi là một bài học miễn phí. Hôm nay, hãy tìm một lỗi để sửa.
