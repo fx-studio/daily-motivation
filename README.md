@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-18 05:00 ICT]**
+
+* **VI**: Mỗi dòng code không viết là một lỗi tiềm ẩn không bao giờ sinh ra. Hôm nay, hãy xóa bớt thay vì thêm.
+* **EN**: Every line of code you don't write is a bug that never exists. Today, delete more than you add.
+
+---
+
 **[2026-05-18 05:02 ICT]**
 
 * **VI**: Khi code khó hiểu, nó đang dạy bạn điều gì đó. Hôm nay, kiên nhẫn với độ phức tạp.
