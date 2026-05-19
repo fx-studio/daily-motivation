@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-20 05:00 ICT]**
+
+* **VI**: Sự tài ba không phải điều gì bí ẩn. Nó chỉ là lặp lại có mục đích. Hôm nay, làm lại nhưng tốt hơn.
+* **EN**: Mastery is not mysterious. It's just deliberate repetition. Today, do it again but better.
+
+---
+
 **[2026-05-18 05:00 ICT]**
 
 * **VI**: Mỗi dòng code không viết là một lỗi tiềm ẩn không bao giờ sinh ra. Hôm nay, hãy xóa bớt thay vì thêm.
