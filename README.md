@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-20 05:01 ICT]**
+
+* **VI**: Khi bạn viết test, bạn không viết cho bây giờ. Bạn viết cho lúc 3 giờ sáng khi sản xuất gặp sự cố.
+* **EN**: When you write tests, you're not writing for now. You're writing for 3 AM when production breaks.
+
+---
+
 **[2026-05-20 05:00 ICT]**
 
 * **VI**: Sự tài ba không phải điều gì bí ẩn. Nó chỉ là lặp lại có mục đích. Hôm nay, làm lại nhưng tốt hơn.
