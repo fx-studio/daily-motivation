@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-21 05:00 ICT]**
+
+* **VI**: Lập trình viên mê tính năng mới, nhưng lập trình viên tốt mê hoàn thành công việc. Hôm nay, đưa nó lên.
+* **EN**: Developers love new features, but great developers love shipping. Today, get it out.
+
+---
+
 **[2026-05-20 05:01 ICT]**
 
 * **VI**: Khi bạn viết test, bạn không viết cho bây giờ. Bạn viết cho lúc 3 giờ sáng khi sản xuất gặp sự cố.
