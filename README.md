@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-22 05:00 ICT]**
+
+* **VI**: Bạn học thiết kế hệ thống qua việc đọc code tốt. Hôm nay, tìm một dự án để học.
+* **EN**: You learn system design by reading great code. Today, find a project to learn from.
+
+---
+
 **[2026-05-21 05:00 ICT]**
 
 * **VI**: Lập trình viên mê tính năng mới, nhưng lập trình viên tốt mê hoàn thành công việc. Hôm nay, đưa nó lên.
