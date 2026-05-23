@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-23 05:00 ICT]**
+
+* **VI**: Trạng thái flow quý giá hơn bất kỳ cuộc họp nào. Hôm nay, bảo vệ nó.
+* **EN**: Flow is worth more than any meeting. Today, protect it.
+
+---
+
 **[2026-05-22 05:00 ICT]**
 
 * **VI**: Bạn học thiết kế hệ thống qua việc đọc code tốt. Hôm nay, tìm một dự án để học.
