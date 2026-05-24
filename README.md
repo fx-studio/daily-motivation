@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-24 05:00 ICT]**
+
+* **VI**: Mỗi dòng code có một người đọc trong tương lai - có thể là bạn. Hôm nay, viết như bạn sẽ quên.
+* **EN**: Every line of code has a future reader—maybe you. Today, write as if you'll forget.
+
+---
+
 **[2026-05-23 05:00 ICT]**
 
 * **VI**: Trạng thái flow quý giá hơn bất kỳ cuộc họp nào. Hôm nay, bảo vệ nó.
