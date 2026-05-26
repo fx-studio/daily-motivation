@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-26 05:00 ICT]**
+
+* **VI**: Stack trace là lộ trình, không phải phán xét. Theo dõi nó cẩn thận. Hôm nay, đọc một cái hoàn toàn.
+* **EN**: A stack trace is a roadmap, not judgment. Follow it carefully. Today, read one fully.
+
+---
+
 **[2026-05-25 05:00 ICT]**
 
 * **VI**: Một cải thiện nhỏ, nếu lặp lại, sẽ làm nên thay đổi. Hôm nay, sửa một thứ gây khó chịu.
