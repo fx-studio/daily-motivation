@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-27 05:00 ICT]**
+
+* **VI**: Lỗi đầu tiên là triệu chứng. Tìm lỗi thứ hai, rồi thứ ba. Nguyên nhân nằm sâu.
+* **EN**: The first bug is a symptom. Find the second, then the third. The cause goes deep.
+
+---
+
 **[2026-05-26 05:00 ICT]**
 
 * **VI**: Stack trace là lộ trình, không phải phán xét. Theo dõi nó cẩn thận. Hôm nay, đọc một cái hoàn toàn.
