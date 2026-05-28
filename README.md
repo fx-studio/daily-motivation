@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-28 05:00 ICT]**
+
+* **VI**: Hạn chế buộc phải rõ ràng. Cái bạn xây dựng với ít hơn mạnh hơn cái bạn xây dựng với nhiều hơn.
+* **EN**: Limitations force clarity. What you build with less is stronger than what you build with more.
+
+---
+
 **[2026-05-27 05:00 ICT]**
 
 * **VI**: Lỗi đầu tiên là triệu chứng. Tìm lỗi thứ hai, rồi thứ ba. Nguyên nhân nằm sâu.
