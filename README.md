@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-29 05:00 ICT]**
+
+* **VI**: Code review không phải chỉ trích. Nó là một cặp mắt thêm. Hôm nay, chia sẻ code của bạn.
+* **EN**: Code review is not criticism. It's an extra pair of eyes. Today, share your code.
+
+---
+
 **[2026-05-28 05:00 ICT]**
 
 * **VI**: Hạn chế buộc phải rõ ràng. Cái bạn xây dựng với ít hơn mạnh hơn cái bạn xây dựng với nhiều hơn.
