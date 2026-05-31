@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-05-31 05:00 ICT]**
+
+* **VI**: Đóng laptop là một quyết định thiết kế. Hôm nay, hãy có đủ can đảm để dừng lại.
+* **EN**: Closing your laptop is a design decision. Today, have the courage to stop.
+
+---
+
 **[2026-05-30 05:00 ICT]**
 
 * **VI**: Đặt tên không phải trang trí. Cái tên đúng là một nhận xét được mã hóa. Hôm nay, đổi tên một thứ.
