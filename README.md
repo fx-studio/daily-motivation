@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-01 05:00 ICT]**
+
+* **VI**: Mã tốt có chủ sở hữu. Mã bỏ mặc không. Hôm nay, chủ động sở hữu một thứ.
+* **EN**: Good code has an owner. Neglected code doesn't. Today, actively own something.
+
+---
+
 **[2026-05-31 05:00 ICT]**
 
 * **VI**: Đóng laptop là một quyết định thiết kế. Hôm nay, hãy có đủ can đảm để dừng lại.
