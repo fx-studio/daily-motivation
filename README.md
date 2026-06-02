@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-03 05:00 ICT]**
+
+* **VI**: Giải pháp đơn giản bị xem thường vì quá dễ. Hôm nay, hãy chọn rõ ràng thay vì lạ.
+* **EN**: Simple solutions are dismissed as too easy. Today, choose clarity over cleverness.
+
+---
+
 **[2026-06-01 05:00 ICT]**
 
 * **VI**: Mã tốt có chủ sở hữu. Mã bỏ mặc không. Hôm nay, chủ động sở hữu một thứ.
