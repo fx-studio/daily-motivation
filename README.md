@@ -8,6 +8,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 **[2026-06-03 05:00 ICT]**
 
+* **VI**: Không có giải pháp hoàn hảo, chỉ có những thỏa hiệp được hiểu rõ. Hôm nay, chọn rõ ràng thay vì tránh quyết định.
+* **EN**: There is no perfect solution, only understood trade-offs. Today, choose clearly instead of avoiding the decision.
+
+---
+
+**[2026-06-03 05:00 ICT]**
+
 * **VI**: Giải pháp đơn giản bị xem thường vì quá dễ. Hôm nay, hãy chọn rõ ràng thay vì lạ.
 * **EN**: Simple solutions are dismissed as too easy. Today, choose clarity over cleverness.
 
