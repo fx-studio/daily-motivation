@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-04 05:00 ICT]**
+
+* **VI**: Mắc kẹt không phải do cố gắng chưa đủ, mà là vì chưa tìm đúng góc nhìn. Hôm nay, xin một cái nhìn mới thay vì cố gắng thêm.
+* **EN**: Stuck isn't a problem of effort, it's a problem of angle. Ask for a fresh perspective before pushing harder.
+
+---
+
 **[2026-06-03 05:00 ICT]**
 
 * **VI**: Không có giải pháp hoàn hảo, chỉ có những thỏa hiệp được hiểu rõ. Hôm nay, chọn rõ ràng thay vì tránh quyết định.
