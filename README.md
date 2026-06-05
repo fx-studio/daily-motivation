@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-05 05:00 ICT]**
+
+* **VI**: Thay đổi mã mà bạn không hiểu là một trò cược. Hôm nay, hãy đọc trước khi sửa.
+* **EN**: Changing code you don't understand is a gamble. Today, read before you fix.
+
+---
+
 **[2026-06-04 05:00 ICT]**
 
 * **VI**: Mắc kẹt không phải do cố gắng chưa đủ, mà là vì chưa tìm đúng góc nhìn. Hôm nay, xin một cái nhìn mới thay vì cố gắng thêm.
