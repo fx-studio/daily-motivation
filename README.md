@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-06 05:00 ICT]**
+
+* **VI**: Khẩn cấp tự thông báo; quan trọng ẩn giấu. Hôm nay, chủ động tìm cái quan trọng.
+* **EN**: Urgent announces itself; important hides. Today, actively find what matters.
+
+---
+
 **[2026-06-05 05:00 ICT]**
 
 * **VI**: Thay đổi mã mà bạn không hiểu là một trò cược. Hôm nay, hãy đọc trước khi sửa.
