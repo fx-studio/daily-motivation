@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-07 05:00 ICT]**
+
+* **VI**: Đọc code để sửa một lỗi là công việc. Đọc code vì tò mò là học. Hôm nay, hãy tò mò.
+* **EN**: Reading code to fix a bug is work. Reading code out of curiosity is learning. Today, be curious.
+
+---
+
 **[2026-06-06 05:00 ICT]**
 
 * **VI**: Khẩn cấp tự thông báo; quan trọng ẩn giấu. Hôm nay, chủ động tìm cái quan trọng.
