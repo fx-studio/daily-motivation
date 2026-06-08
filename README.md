@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-08 05:00 ICT]**
+
+* **VI**: Mỗi lần nói có là nói không với cái khác. Chọn cái quan trọng. Nói không với phần còn lại.
+* **EN**: Every yes is a no to something else. Choose what matters. Say no to the rest.
+
+---
+
 **[2026-06-07 05:00 ICT]**
 
 * **VI**: Đọc code để sửa một lỗi là công việc. Đọc code vì tò mò là học. Hôm nay, hãy tò mò.
