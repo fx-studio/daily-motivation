@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-09 05:00 ICT]**
+
+* **VI**: Đừng chỉ viết code—quan sát nó chạy. Quan sát dạy những gì lý thuyết không thể.
+* **EN**: Don't just write code—watch it run. Observation teaches what theory can't.
+
+---
+
 **[2026-06-08 05:00 ICT]**
 
 * **VI**: Mỗi lần nói có là nói không với cái khác. Chọn cái quan trọng. Nói không với phần còn lại.
