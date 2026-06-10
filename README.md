@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-10 05:00 ICT]**
+
+* **VI**: Giả định ẩn là lỗi ẩn. Hôm nay, hãy thốt ra một điều gì đó bạn đang cho là hiển nhiên.
+* **EN**: Hidden assumptions are hidden bugs. Today, name one thing you're taking for granted.
+
+---
+
 **[2026-06-09 05:00 ICT]**
 
 * **VI**: Đừng chỉ viết code—quan sát nó chạy. Quan sát dạy những gì lý thuyết không thể.
