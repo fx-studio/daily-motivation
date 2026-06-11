@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-11 05:00 ICT]**
+
+* **VI**: Một ví dụ tối thiểu rõ ràng đánh bại nhiều giờ giải thích. Hôm nay, hãy thể hiện thay vì nói.
+* **EN**: A clear minimal example beats hours of explanation. Today, show rather than tell.
+
+---
+
 **[2026-06-10 05:00 ICT]**
 
 * **VI**: Giả định ẩn là lỗi ẩn. Hôm nay, hãy thốt ra một điều gì đó bạn đang cho là hiển nhiên.
