@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-12 05:00 ICT]**
+
+* **VI**: Nhịp độ bền vững hơn tốc độ dữ dội. Hôm nay, làm việc theo nhịp của bạn.
+* **EN**: Sustainable pace beats frantic speed. Today, work at your rhythm.
+
+---
+
 **[2026-06-11 05:00 ICT]**
 
 * **VI**: Một ví dụ tối thiểu rõ ràng đánh bại nhiều giờ giải thích. Hôm nay, hãy thể hiện thay vì nói.
