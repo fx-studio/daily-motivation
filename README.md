@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-13 05:00 ICT]**
+
+* **VI**: Code làm bạn bối rối chưa hoàn thành. Đừng giải thích—sửa nó. Hôm nay, viết lại một phần khó hiểu.
+* **EN**: Code that confuses you isn't finished. Don't explain it—fix it. Today, rewrite one confusing part.
+
+---
+
 **[2026-06-12 05:00 ICT]**
 
 * **VI**: Nhịp độ bền vững hơn tốc độ dữ dội. Hôm nay, làm việc theo nhịp của bạn.
