@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-14 05:00 ICT]**
+
+* **VI**: Deploy thất bại dạy hơn deploy thành công. Coi nó là dữ liệu, không phải xấu hổ. Hôm nay, hỏi 'tại sao' thay vì xin lỗi.
+* **EN**: Failed deploys teach more than successful ones. Treat them as data, not shame. Today, ask 'why' instead of apologizing.
+
+---
+
 **[2026-06-13 05:00 ICT]**
 
 * **VI**: Code làm bạn bối rối chưa hoàn thành. Đừng giải thích—sửa nó. Hôm nay, viết lại một phần khó hiểu.
