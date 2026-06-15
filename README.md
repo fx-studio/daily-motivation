@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-16 05:00 ICT]**
+
+* **VI**: Trí óc buổi sáng của bạn sáng suốt nhất. Tiết kiệm nó cho những vấn đề khó, không phải email. Bạn chỉ có những giờ đó một lần.
+* **EN**: Your morning mind is sharpest. Save it for hard problems, not email. You only get those hours once.
+
+---
+
 **[2026-06-14 05:00 ICT]**
 
 * **VI**: Deploy thất bại dạy hơn deploy thành công. Coi nó là dữ liệu, không phải xấu hổ. Hôm nay, hỏi 'tại sao' thay vì xin lỗi.
