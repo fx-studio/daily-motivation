@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-17 05:07 ICT]**
+
+* **VI**: Câu hỏi bạn lãng quên hôm nay trở thành lỗi bạn sửa ngày mai. Hôm nay, đặt thêm câu hỏi.
+* **EN**: Questions you skip today become bugs you fix tomorrow. Today, ask one more.
+
+---
+
 **[2026-06-16 05:00 ICT]**
 
 * **VI**: Trí óc buổi sáng của bạn sáng suốt nhất. Tiết kiệm nó cho những vấn đề khó, không phải email. Bạn chỉ có những giờ đó một lần.
