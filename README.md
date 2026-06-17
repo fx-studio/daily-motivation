@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-18 05:00 ICT]**
+
+* **VI**: Xây dựng, đo lường, cải thiện. Một chu kỳ dạy hơn một tháng lên kế hoạch. Hôm nay, hãy bắt đầu một.
+* **EN**: Build, measure, improve. One cycle teaches more than a month of planning. Today, start one.
+
+---
+
 **[2026-06-17 05:07 ICT]**
 
 * **VI**: Câu hỏi bạn lãng quên hôm nay trở thành lỗi bạn sửa ngày mai. Hôm nay, đặt thêm câu hỏi.
