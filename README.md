@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-19 05:04 ICT]**
+
+* **VI**: Code cũ không bị hỏng—nó hoạt động, và ai đó đã tin tưởng nó. Hiểu nó trước khi bạn chỉ trích nó.
+* **EN**: Legacy code isn't broken—it works, and someone trusted it. Understand it before you criticize it.
+
+---
+
 **[2026-06-18 05:00 ICT]**
 
 * **VI**: Xây dựng, đo lường, cải thiện. Một chu kỳ dạy hơn một tháng lên kế hoạch. Hôm nay, hãy bắt đầu một.
