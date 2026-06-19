@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-20 05:04 ICT]**
+
+* **VI**: Thay đổi nhỏ rõ ràng và dễ hoàn tác. Hôm nay, chia nhỏ một bản vá.
+* **EN**: Small changes are clear and reversible. Today, break one fix into steps.
+
+---
+
 **[2026-06-19 05:04 ICT]**
 
 * **VI**: Code cũ không bị hỏng—nó hoạt động, và ai đó đã tin tưởng nó. Hiểu nó trước khi bạn chỉ trích nó.
