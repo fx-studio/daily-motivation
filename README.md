@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-21 05:06 ICT]**
+
+* **VI**: Test không phải bảo hiểm—nó là quyền refactor của bạn. Hôm nay, viết một và dũng cảm.
+* **EN**: Tests aren't insurance—they're your permission to refactor. Today, write one and be bold.
+
+---
+
 **[2026-06-20 05:04 ICT]**
 
 * **VI**: Thay đổi nhỏ rõ ràng và dễ hoàn tác. Hôm nay, chia nhỏ một bản vá.
