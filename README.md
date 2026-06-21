@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-22 05:05 ICT]**
+
+* **VI**: Sửa là tạm thời; hiểu là vĩnh viễn. Hôm nay, đào sâu hơn vào một lỗi.
+* **EN**: Fixing is temporary; understanding is permanent. Today, dig deeper into one bug.
+
+---
+
 **[2026-06-21 05:06 ICT]**
 
 * **VI**: Test không phải bảo hiểm—nó là quyền refactor của bạn. Hôm nay, viết một và dũng cảm.
