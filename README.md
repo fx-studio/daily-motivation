@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-23 05:00 ICT]**
+
+* **VI**: Nói to ra làm thay đổi vấn đề. Hôm nay, nói ra một trở ngại.
+* **EN**: Saying it out loud changes the problem. Today, voice one blocker.
+
+---
+
 **[2026-06-22 05:05 ICT]**
 
 * **VI**: Sửa là tạm thời; hiểu là vĩnh viễn. Hôm nay, đào sâu hơn vào một lỗi.
