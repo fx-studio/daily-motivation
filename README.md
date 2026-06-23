@@ -8,6 +8,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 **[2026-06-23 05:00 ICT]**
 
+* **VI**: Tại sao quan trọng hơn cái gì. Hôm nay, hãy viết một commit message với lý do rõ ràng.
+* **EN**: Why is more important than what. Today, write a commit message with a clear reason.
+
+---
+
+**[2026-06-23 05:00 ICT]**
+
 * **VI**: Nói to ra làm thay đổi vấn đề. Hôm nay, nói ra một trở ngại.
 * **EN**: Saying it out loud changes the problem. Today, voice one blocker.
 
