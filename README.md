@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-25 05:00 ICT]**
+
+* **VI**: Yêu cầu mơ hồ trở thành lỗi rõ ràng. Hôm nay, hỏi để làm sáng tỏ.
+* **EN**: Vague requirements become obvious bugs. Today, ask for clarity.
+
+---
+
 **[2026-06-24 05:00 ICT]**
 
 * **VI**: Log tốt cứu bạn lúc 3 AM. Hôm nay, viết một cái rõ ràng.
