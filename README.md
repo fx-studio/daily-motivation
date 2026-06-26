@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-26 05:00 ICT]**
+
+* **VI**: Vấn đề lớn không nhỏ lại vì bạn nhìn nó lâu. Nó nhỏ lại khi bạn cắt nó làm đôi. Hôm nay, tìm nơi để cắt.
+* **EN**: A big problem won't shrink from staring. It shrinks when you cut it in half. Today, find the cut.
+
+---
+
 **[2026-06-25 05:00 ICT]**
 
 * **VI**: Yêu cầu mơ hồ trở thành lỗi rõ ràng. Hôm nay, hỏi để làm sáng tỏ.
