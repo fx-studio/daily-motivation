@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-27 05:00 ICT]**
+
+* **VI**: Triệu chứng nói dối; dữ liệu không. Hôm nay, tìm dữ liệu trước khi sửa.
+* **EN**: Symptoms lie; data doesn't. Today, gather data before you fix.
+
+---
+
 **[2026-06-26 05:00 ICT]**
 
 * **VI**: Vấn đề lớn không nhỏ lại vì bạn nhìn nó lâu. Nó nhỏ lại khi bạn cắt nó làm đôi. Hôm nay, tìm nơi để cắt.
