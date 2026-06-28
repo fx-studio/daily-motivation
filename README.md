@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-28 05:00 ICT]**
+
+* **VI**: Bạn không thể cải thiện cái bạn không thể đo lường. Hôm nay, đo lường một thứ.
+* **EN**: You can't improve what you can't measure. Today, measure one thing.
+
+---
+
 **[2026-06-27 05:00 ICT]**
 
 * **VI**: Triệu chứng nói dối; dữ liệu không. Hôm nay, tìm dữ liệu trước khi sửa.
