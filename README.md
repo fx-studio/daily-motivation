@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-29 05:00 ICT]**
+
+* **VI**: Mọi ai xây dựng cho trường hợp hạnh phúc. Bạn thắng bằng xây dựng cho trường hợp biên. Hôm nay, tìm một và xử lý nó.
+* **EN**: Everyone builds for the happy path. You win by building for edge cases. Today, find one and handle it.
+
+---
+
 **[2026-06-28 05:00 ICT]**
 
 * **VI**: Bạn không thể cải thiện cái bạn không thể đo lường. Hôm nay, đo lường một thứ.
