@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-06-30 05:00 ICT]**
+
+* **VI**: Khi bạn vội, bạn trả chi phí sau. Hôm nay, hãy chậm để tiết kiệm thời gian của người khác.
+* **EN**: When you rush, someone pays later. Today, slow down to save their time.
+
+---
+
 **[2026-06-29 05:00 ICT]**
 
 * **VI**: Mọi ai xây dựng cho trường hợp hạnh phúc. Bạn thắng bằng xây dựng cho trường hợp biên. Hôm nay, tìm một và xử lý nó.
