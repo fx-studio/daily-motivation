@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-04 05:00 ICT]**
+
+* **VI**: Mỗi lần quay lại một task mất 20 phút để lấy lại tư duy. Hôm nay, hoàn thành một việc trước khi chuyển sang.
+* **EN**: Returning to a task costs 20 minutes of context. Today, finish one before you switch.
+
+---
+
 **[2026-07-03 05:00 ICT]**
 
 * **VI**: Một công việc hoàn thành tốt dạy hơn năm công việc nửa vời. Hôm nay, hoàn thành một.
