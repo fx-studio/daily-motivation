@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-05 05:00 ICT]**
+
+* **VI**: Một ngày, một việc quan trọng. Hôm nay, chọn nó trước khi bạn viết code.
+* **EN**: One day, one important thing. Today, choose it before you write code.
+
+---
+
 **[2026-07-04 05:00 ICT]**
 
 * **VI**: Mỗi lần quay lại một task mất 20 phút để lấy lại tư duy. Hôm nay, hoàn thành một việc trước khi chuyển sang.
