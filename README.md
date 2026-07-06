@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-06 05:00 ICT]**
+
+* **VI**: Vấn đề không tái hiện được là vấn đề bạn sẽ gặp lại. Hôm nay, tìm cách tái hiện.
+* **EN**: A problem with no reproduction case is a problem you'll see again. Today, nail it down.
+
+---
+
 **[2026-07-05 05:00 ICT]**
 
 * **VI**: Một ngày, một việc quan trọng. Hôm nay, chọn nó trước khi bạn viết code.
