@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-08 05:00 ICT]**
+
+* **VI**: Thông báo lỗi không nói dối. Hôm nay, đọc nó hoàn toàn trước khi tìm kiếm.
+* **EN**: Error messages don't lie. Today, read them fully before you search.
+
+---
+
 **[2026-07-07 05:00 ICT]**
 
 * **VI**: Ranh giới hệ thống của bạn là nơi bạn không thể tin tưởng. Hôm nay, kiểm tra nó.
