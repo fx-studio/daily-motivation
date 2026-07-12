@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-12 05:00 ICT]**
+
+* **VI**: Bạn hiểu tại sao bây giờ. Sau này bạn sẽ quên. Hôm nay, viết nó xuống.
+* **EN**: You understand why now. Later you will forget. Today, write it down.
+
+---
+
 **[2026-07-12 05:05 ICT]**
 
 * **VI**: Mẫu bắt đầu từ lần thứ ba. Hôm nay, tìm lần thứ ba.
