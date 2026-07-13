@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-13 05:00 ICT]**
+
+* **VI**: Chất lượng không từ tiêu chuẩn. Nó từ sự quan tâm của một người. Hôm nay, chọn một phần code và chăm sóc nó.
+* **EN**: Quality doesn't come from standards. It comes from someone caring. Today, pick one piece of code and tend to it.
+
+---
+
 **[2026-07-12 05:00 ICT]**
 
 * **VI**: Bạn hiểu tại sao bây giờ. Sau này bạn sẽ quên. Hôm nay, viết nó xuống.
