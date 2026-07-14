@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-15 05:00 ICT]**
+
+* **VI**: Bạn lặp lại cùng một sai lầm dưới những hình thức khác nhau. Hôm nay, tìm ra nó.
+* **EN**: You repeat the same mistake in different forms. Today, find it.
+
+---
+
 **[2026-07-13 05:00 ICT]**
 
 * **VI**: Chất lượng không từ tiêu chuẩn. Nó từ sự quan tâm của một người. Hôm nay, chọn một phần code và chăm sóc nó.
