@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-16 05:00 ICT]**
+
+* **VI**: Code được đọc gấp mười lần so với được viết. Viết cho người đọc. Hôm nay, làm rõ một phần.
+* **EN**: Code is read ten times more than it's written. Write for the reader. Today, clarify one part.
+
+---
+
 **[2026-07-15 05:00 ICT]**
 
 * **VI**: Bạn lặp lại cùng một sai lầm dưới những hình thức khác nhau. Hôm nay, tìm ra nó.
