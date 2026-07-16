@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-17 05:00 ICT]**
+
+* **VI**: Giả vờ biết lãng phí thời gian. Nói "tôi không biết" mở ra lối thoát. Hôm nay, hỏi.
+* **EN**: Pretending to know wastes time. Saying "I don't know" opens the door. Today, ask.
+
+---
+
 **[2026-07-16 05:00 ICT]**
 
 * **VI**: Code được đọc gấp mười lần so với được viết. Viết cho người đọc. Hôm nay, làm rõ một phần.
