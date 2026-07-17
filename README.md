@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-18 05:00 ICT]**
+
+* **VI**: Xây dựng cho cái bạn biết hôm nay. Tổng quát hóa khi bạn thấy nó ba lần. Hôm nay, ở lại cụ thể.
+* **EN**: Build for what you know today. Generalize when you see it three times. Today, stay concrete.
+
+---
+
 **[2026-07-17 05:00 ICT]**
 
 * **VI**: Giả vờ biết lãng phí thời gian. Nói "tôi không biết" mở ra lối thoát. Hôm nay, hỏi.
