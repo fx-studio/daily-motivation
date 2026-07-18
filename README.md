@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-19 05:00 ICT]**
+
+* **VI**: Bạn không cần hiểu toàn bộ để sửa một phần. Hôm nay, chỉ hiểu cái cần thiết.
+* **EN**: You don't need to understand everything to fix one thing. Today, understand only what you need.
+
+---
+
 **[2026-07-18 05:00 ICT]**
 
 * **VI**: Xây dựng cho cái bạn biết hôm nay. Tổng quát hóa khi bạn thấy nó ba lần. Hôm nay, ở lại cụ thể.
