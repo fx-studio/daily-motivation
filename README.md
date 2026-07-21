@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-22 05:00 ICT]**
+
+* **VI**: Lỗi ẩn nơi sương mù tinh thần. Tư duy rõ ràng đến từ nghỉ ngơi, không phải cà phê. Tối nay, hãy dừng lại sớm. Ngày mai bạn sẽ thấy nó trong vài phút.
+* **EN**: Bugs hide in mental fog. Clear thinking comes from rest, not more coffee. Tonight, stop early. Tomorrow you'll spot it in minutes.
+
+---
+
 **[2026-07-21 05:00 ICT]**
 
 * **VI**: Xong và không hoàn hảo hơn hoàn hảo và tưởng tượng. Hôm nay, tạo thứ gì đó thực tế.
