@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-23 05:00 ICT]**
+
+* **VI**: Debugging là khoa học, không phải may mắn. Giả thuyết, kiểm tra, loại bỏ. Hôm nay, có kế hoạch.
+* **EN**: Debugging is science, not luck. Hypothesis, test, eliminate. Today, have a plan.
+
+---
+
 **[2026-07-22 05:00 ICT]**
 
 * **VI**: Lỗi ẩn nơi sương mù tinh thần. Tư duy rõ ràng đến từ nghỉ ngơi, không phải cà phê. Tối nay, hãy dừng lại sớm. Ngày mai bạn sẽ thấy nó trong vài phút.
