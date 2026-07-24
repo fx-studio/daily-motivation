@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-25 05:00 ICT]**
+
+* **VI**: Code xấu cảm thấy sai trước khi bạn biết tại sao. Tin tưởng cảm giác đó. Hôm nay, lắng nghe trực giác.
+* **EN**: Bad code feels wrong before you know why. Trust that feeling. Today, listen to your gut.
+
+---
+
 **[2026-07-24 05:00 ICT]**
 
 * **VI**: Những tiếng ồn lớn phai mờ. Code tốt tồn tại lâu. Hôm nay, im lặng và xây dựng.
