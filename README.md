@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-26 05:00 ICT]**
+
+* **VI**: Dependencies nhân rủi ro. Bạn càng ít có, bạn càng kiểm soát. Hôm nay, xóa một cái.
+* **EN**: Dependencies multiply risk. The fewer you have, the more you control. Today, remove one.
+
+---
+
 **[2026-07-25 05:00 ICT]**
 
 * **VI**: Code xấu cảm thấy sai trước khi bạn biết tại sao. Tin tưởng cảm giác đó. Hôm nay, lắng nghe trực giác.
