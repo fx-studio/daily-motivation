@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-27 05:02 ICT]**
+
+* **VI**: Khi bế tắc, hãy viết cái gì đó — code sẽ dạy bạn những gì suy nghĩ không thể.
+* **EN**: When blocked, write something — code will teach you what thinking can't.
+
+---
+
 **[2026-07-26 05:01 ICT]**
 
 * **VI**: Một thắng lợi nhỏ là thắng lợi. Hôm nay, chọn một việc bạn có thể xong trong một giờ.
