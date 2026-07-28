@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-29 05:05 ICT]**
+
+* **VI**: Bạn luôn đang đánh đổi cái gì đó. Biết trade-off của hôm nay là gì.
+* **EN**: You're always trading off something. Know what today's trade-off is.
+
+---
+
 **[2026-07-27 05:02 ICT]**
 
 * **VI**: Khi bế tắc, hãy viết cái gì đó — code sẽ dạy bạn những gì suy nghĩ không thể.
