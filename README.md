@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-30 05:00 ICT]**
+
+* **VI**: Bạn sẽ không bao giờ cảm thấy sẵn sàng. Xác định xong và gửi hôm nay.
+* **EN**: You'll never feel ready. Define done and ship today.
+
+---
+
 **[2026-07-29 05:05 ICT]**
 
 * **VI**: Bạn luôn đang đánh đổi cái gì đó. Biết trade-off của hôm nay là gì.
