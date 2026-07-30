@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-30 05:01 ICT]**
+
+* **VI**: Sự nhất quán hơn cường độ. Một chút mỗi ngày, điều đó thay đổi mọi thứ.
+* **EN**: Consistency over intensity. A little each day changes everything.
+
+---
+
 **[2026-07-30 05:00 ICT]**
 
 * **VI**: Bạn sẽ không bao giờ cảm thấy sẵn sàng. Xác định xong và gửi hôm nay.
