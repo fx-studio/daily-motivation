@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-07-31 05:00 ICT]**
+
+* **VI**: Mệt mỏi làm bạn nhầm tốc độ với tiến bộ. Hôm nay, nghi ngờ bất kỳ thắng lợi bạn tuyên bố khi kiệt sức.
+* **EN**: Tired minds mistake motion for progress. Today, doubt every win you claim when exhausted.
+
+---
+
 **[2026-07-30 05:01 ICT]**
 
 * **VI**: Sự nhất quán hơn cường độ. Một chút mỗi ngày, điều đó thay đổi mọi thứ.
