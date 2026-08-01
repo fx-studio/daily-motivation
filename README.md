@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-01 05:00 ICT]**
+
+* **VI**: Khó khăn nói gì đó. Đừng chỉ cố gắng thêm—lắng nghe nó.
+* **EN**: Friction speaks. Don't just push harder—listen to it.
+
+---
+
 **[2026-07-31 05:00 ICT]**
 
 * **VI**: Mệt mỏi làm bạn nhầm tốc độ với tiến bộ. Hôm nay, nghi ngờ bất kỳ thắng lợi bạn tuyên bố khi kiệt sức.
