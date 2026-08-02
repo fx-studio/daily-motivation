@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-02 05:00 ICT]**
+
+* **VI**: Bạn sẽ quay lại. Hiểu nó bây giờ bằng cách tò mò. Hôm nay, hỏi tại sao.
+* **EN**: You'll be back. Understand it now through curiosity. Today, ask why.
+
+---
+
 **[2026-08-01 05:00 ICT]**
 
 * **VI**: Khó khăn nói gì đó. Đừng chỉ cố gắng thêm—lắng nghe nó.
