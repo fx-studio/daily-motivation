@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-03 05:00 ICT]**
+
+* **VI**: Bạn đã gặp kiểu vấn đề này trước. Trực giác bạn biết. Hôm nay, tin tưởng nó.
+* **EN**: You've hit this kind of problem before. Your gut knows. Today, trust it.
+
+---
+
 **[2026-08-02 05:00 ICT]**
 
 * **VI**: Bạn sẽ quay lại. Hiểu nó bây giờ bằng cách tò mò. Hôm nay, hỏi tại sao.
