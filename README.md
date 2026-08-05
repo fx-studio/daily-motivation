@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-05 05:00 ICT]**
+
+* **VI**: Hỏi khi còn sạch sẽ. Để đến lúc sau sẽ bừa bộn. Hôm nay, hỏi ngay.
+* **EN**: Ask while it's fresh. Wait too long and it gets messy. Today, ask now.
+
+---
+
 **[2026-08-04 05:00 ICT]**
 
 * **VI**: Lỗi trong sương mù không được sửa. Nêu tên nó cụ thể, giải pháp sẽ xuất hiện. Hôm nay, hãy gọi tên vấn đề.
