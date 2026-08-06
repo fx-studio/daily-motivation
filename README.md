@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-06 05:00 ICT]**
+
+* **VI**: Người khác sẽ đọc code của bạn. Hôm nay, viết cho họ.
+* **EN**: Someone else will read your code. Today, write for them.
+
+---
+
 **[2026-08-05 05:00 ICT]**
 
 * **VI**: Hỏi khi còn sạch sẽ. Để đến lúc sau sẽ bừa bộn. Hôm nay, hỏi ngay.
