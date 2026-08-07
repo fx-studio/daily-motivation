@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-07 05:00 ICT]**
+
+* **VI**: Đọc code của bạn hôm nay như người khác sẽ đọc nó. Nếu đoạn nào khiến bạn phải suy nghĩ, đó là nơi để làm rõ.
+* **EN**: Read your code today like someone else will tomorrow. If any line makes you think, that's where to clarify.
+
+---
+
 **[2026-08-06 05:00 ICT]**
 
 * **VI**: Người khác sẽ đọc code của bạn. Hôm nay, viết cho họ.
