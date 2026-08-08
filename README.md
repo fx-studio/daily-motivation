@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-08 05:00 ICT]**
+
+* **VI**: Không thấy nó chạy, bạn chỉ đoán. Hôm nay, xem một lần trước khi tin tưởng.
+* **EN**: If you don't watch it run, you're guessing. Today, see it work before you trust it.
+
+---
+
 **[2026-08-07 05:00 ICT]**
 
 * **VI**: Đọc code của bạn hôm nay như người khác sẽ đọc nó. Nếu đoạn nào khiến bạn phải suy nghĩ, đó là nơi để làm rõ.
