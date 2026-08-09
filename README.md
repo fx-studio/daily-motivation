@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-09 05:00 ICT]**
+
+* **VI**: Tại sao thứ gì đó được xây dựng dạy hơn cách nó hoạt động. Hôm nay, lần theo một quyết định thiết kế bạn không hiểu.
+* **EN**: Why something was built teaches more than how it works. Today, trace one design decision you don't understand.
+
+---
+
 **[2026-08-08 05:00 ICT]**
 
 * **VI**: Không thấy nó chạy, bạn chỉ đoán. Hôm nay, xem một lần trước khi tin tưởng.
