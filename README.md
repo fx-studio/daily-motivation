@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-10 05:00 ICT]**
+
+* **VI**: Lỗi hệ thống không phải tai nạn—chúng là tín hiệu bị bỏ qua. Hôm nay, nghe một cái.
+* **EN**: System failures aren't accidents—they're ignored signals. Today, listen to one.
+
+---
+
 **[2026-08-09 05:00 ICT]**
 
 * **VI**: Tại sao thứ gì đó được xây dựng dạy hơn cách nó hoạt động. Hôm nay, lần theo một quyết định thiết kế bạn không hiểu.
