@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-11 05:00 ICT]**
+
+* **VI**: Mỗi quyết định nhỏ bạn đưa ra định hình hệ thống của bạn. Hàng chục mỗi ngày. Hôm nay, đưa ra một cách có ý thức.
+* **EN**: Each tiny decision shapes your system. Dozens daily. Today, make one consciously.
+
+---
+
 **[2026-08-10 05:00 ICT]**
 
 * **VI**: Lỗi hệ thống không phải tai nạn—chúng là tín hiệu bị bỏ qua. Hôm nay, nghe một cái.
