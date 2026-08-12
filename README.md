@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-12 05:00 ICT]**
+
+* **VI**: Mỗi lối tắt bạn thực hiện có một lãi suất. Hôm nay, thanh toán một khoản nợ nhỏ.
+* **EN**: Every shortcut you take has an interest rate. Today, pay down one small debt.
+
+---
+
 **[2026-08-11 05:00 ICT]**
 
 * **VI**: Mỗi quyết định nhỏ bạn đưa ra định hình hệ thống của bạn. Hàng chục mỗi ngày. Hôm nay, đưa ra một cách có ý thức.
