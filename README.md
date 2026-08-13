@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-13 05:00 ICT]**
+
+* **VI**: Bạn kế thừa không phải chỉ code—bạn kế thừa các điểm mù của mọi người. Hôm nay, đặt tên một cái bạn đang mang theo.
+* **EN**: You inherit not just code—you inherit everyone's blind spots. Today, name one you're carrying forward.
+
+---
+
 **[2026-08-12 05:00 ICT]**
 
 * **VI**: Mỗi lối tắt bạn thực hiện có một lãi suất. Hôm nay, thanh toán một khoản nợ nhỏ.
