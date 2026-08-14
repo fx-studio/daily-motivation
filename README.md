@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-15 05:00 ICT]**
+
+* **VI**: Bạn không cần hiểu toàn bộ để bắt đầu. Bạn cần hiểu để tiếp tục. Hôm nay, hiểu một cái gì đó sâu hơn.
+* **EN**: You don't need to understand everything to start. You need understanding to continue. Today, go deeper on one thing.
+
+---
+
 **[2026-08-13 05:00 ICT]**
 
 * **VI**: Bạn kế thừa không phải chỉ code—bạn kế thừa các điểm mù của mọi người. Hôm nay, đặt tên một cái bạn đang mang theo.
