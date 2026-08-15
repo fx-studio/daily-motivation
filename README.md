@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-15 05:01 ICT]**
+
+* **VI**: Mỗi mặc định bạn không chọn là một sự thừa kế. Hôm nay, quyết định rõ ràng một cái.
+* **EN**: You inherit every default you don't choose. Today, decide one thing explicitly.
+
+---
+
 **[2026-08-15 05:00 ICT]**
 
 * **VI**: Bạn không cần hiểu toàn bộ để bắt đầu. Bạn cần hiểu để tiếp tục. Hôm nay, hiểu một cái gì đó sâu hơn.
