@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-16 05:00 ICT]**
+
+* **VI**: Chờ đợi cảm thấy sẵn sàng là lý do bạn chưa bắt đầu. Kỷ luật là bắt đầu dù chưa sẵn sàng. Hôm nay, hãy kỷ luật.
+* **EN**: Waiting for readiness is why you haven't started. Discipline is starting anyway. Today, be disciplined.
+
+---
+
 **[2026-08-15 05:01 ICT]**
 
 * **VI**: Mỗi mặc định bạn không chọn là một sự thừa kế. Hôm nay, quyết định rõ ràng một cái.
