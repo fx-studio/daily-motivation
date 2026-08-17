@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-18 05:05 ICT]**
+
+* **VI**: Lần thứ nhất bạn viết, bạn học cách làm. Lần thứ hai, bạn học tại sao. Hôm nay, viết lần thứ hai.
+* **EN**: The first time you write it, you learn how. The second time, you learn why. Today, write it twice.
+
+---
+
 **[2026-08-16 05:00 ICT]**
 
 * **VI**: Chờ đợi cảm thấy sẵn sàng là lý do bạn chưa bắt đầu. Kỷ luật là bắt đầu dù chưa sẵn sàng. Hôm nay, hãy kỷ luật.
