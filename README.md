@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-19 05:00 ICT]**
+
+* **VI**: Rõ ràng và dơ bẩn tốt hơn hoàn hảo và khó hiểu. Hôm nay, hãy rõ ràng.
+* **EN**: Clear and messy beats perfect and confusing. Today, be clear.
+
+---
+
 **[2026-08-18 05:05 ICT]**
 
 * **VI**: Lần thứ nhất bạn viết, bạn học cách làm. Lần thứ hai, bạn học tại sao. Hôm nay, viết lần thứ hai.
