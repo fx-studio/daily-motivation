@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-19 05:01 ICT]**
+
+* **VI**: Mơ hồ là nhanh. Chính xác là đáng tin. Bạn viết cho sau này, không phải bây giờ. Hôm nay, chọn chính xác.
+* **EN**: Vague is fast. Precise is reliable. You're writing for later, not for now. Choose precision.
+
+---
+
 **[2026-08-19 05:00 ICT]**
 
 * **VI**: Rõ ràng và dơ bẩn tốt hơn hoàn hảo và khó hiểu. Hôm nay, hãy rõ ràng.
