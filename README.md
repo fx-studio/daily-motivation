@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-20 05:00 ICT]**
+
+* **VI**: Hoàn hảo là kẻ thù. Gửi đi là thầy. Hôm nay, gửi không hoàn hảo.
+* **EN**: Perfect is the enemy. Shipping is the teacher. Today, send it imperfect.
+
+---
+
 **[2026-08-19 05:01 ICT]**
 
 * **VI**: Mơ hồ là nhanh. Chính xác là đáng tin. Bạn viết cho sau này, không phải bây giờ. Hôm nay, chọn chính xác.
