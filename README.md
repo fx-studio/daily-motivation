@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-21 05:00 ICT]**
+
+* **VI**: Tái cấu trúc bảo toàn những gì hoạt động. Viết lại loại bỏ nó. Hôm nay, biết cái nào vấn đề của bạn cần.
+* **EN**: Refactoring preserves what works. Rewriting discards it. Know which one your problem needs today.
+
+---
+
 **[2026-08-20 05:00 ICT]**
 
 * **VI**: Hoàn hảo là kẻ thù. Gửi đi là thầy. Hôm nay, gửi không hoàn hảo.
