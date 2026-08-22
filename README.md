@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-22 05:00 ICT]**
+
+* **VI**: Câu hỏi sai trả lời nhanh. Câu hỏi đúng mất thời gian. Chọn thời gian.
+* **EN**: The wrong question answers fast. The right one takes time. Choose time.
+
+---
+
 **[2026-08-21 05:00 ICT]**
 
 * **VI**: Tái cấu trúc bảo toàn những gì hoạt động. Viết lại loại bỏ nó. Hôm nay, biết cái nào vấn đề của bạn cần.
