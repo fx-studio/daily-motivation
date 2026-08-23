@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-23 05:00 ICT]**
+
+* **VI**: Dạy là để hiểu. Hôm nay, giải thích một vấn đề cho ai đó.
+* **EN**: Teaching is understanding. Today, explain one problem to someone else.
+
+---
+
 **[2026-08-22 05:00 ICT]**
 
 * **VI**: Câu hỏi sai trả lời nhanh. Câu hỏi đúng mất thời gian. Chọn thời gian.
