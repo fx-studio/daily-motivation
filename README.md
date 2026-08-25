@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-25 05:00 ICT]**
+
+* **VI**: Tốt hơn hôm qua là đủ. Hôm nay, chỉ tốt hơn thôi.
+* **EN**: Better than yesterday is enough. Today, just be better.
+
+---
+
 **[2026-08-24 05:00 ICT]**
 
 * **VI**: Code nhàm chán được tin tưởng. Code thông minh được ngưỡng mộ. Hôm nay, hãy đáng tin.
