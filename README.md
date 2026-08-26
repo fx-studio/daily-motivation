@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-26 05:00 ICT]**
+
+* **VI**: Hiểu sâu một thứ quan trọng hơn lướt qua mười thứ. Hôm nay, thật sự hiểu một phần của hệ thống bạn.
+* **EN**: Understanding one thing deeply matters more than skimming ten. Today, truly understand one part of your system.
+
+---
+
 **[2026-08-25 05:00 ICT]**
 
 * **VI**: Tốt hơn hôm qua là đủ. Hôm nay, chỉ tốt hơn thôi.
