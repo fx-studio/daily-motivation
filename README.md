@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-28 05:00 ICT]**
+
+* **VI**: Mỗi sửa đổi có tác dụng phụ ẩn. Hôm nay, vẽ sơ đồ một thay đổi trước khi gửi.
+* **EN**: Every change has hidden side effects. Today, map one before you ship.
+
+---
+
 **[2026-08-27 05:00 ICT]**
 
 * **VI**: Quan sát dạy hơn tưởng tượng. Hôm nay, chạy code và xem kết quả.
