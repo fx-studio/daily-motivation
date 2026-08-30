@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-30 05:00 ICT]**
+
+* **VI**: Mỗi lần chuyển task là khởi động lại. Hôm nay, làm một việc hết.
+* **EN**: Every task switch is a restart. Today, do one thing completely.
+
+---
+
 **[2026-08-29 05:00 ICT]**
 
 * **VI**: Khoảng trống trong kiểm thử lộ diện lúc 3 sáng. Hôm nay, viết một bài kiểm thử bạn đang hoãn lại.
