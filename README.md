@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-08-31 05:00 ICT]**
+
+* **VI**: Sự trì hoãn không phải lười biếng—đó là nỗi sợ. Hãy nêu tên những gì bạn tránh, và nửa nỗi sợ sẽ bốc hơi. Hôm nay, nêu tên nó.
+* **EN**: Avoidance isn't laziness—it's fear. Name what you're avoiding, and half the fear evaporates. Today, name it.
+
+---
+
 **[2026-08-30 05:00 ICT]**
 
 * **VI**: Mỗi lần chuyển task là khởi động lại. Hôm nay, làm một việc hết.
