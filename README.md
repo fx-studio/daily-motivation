@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-02 05:00 ICT]**
+
+* **VI**: Động lực thắng động cơ. Bắt đầu thứ gì đó nhỏ để tạo động lực. Hôm nay, hành động.
+* **EN**: Momentum beats motivation. Start something small to create momentum. Today, begin.
+
+---
+
 **[2026-09-01 05:00 ICT]**
 
 * **VI**: Quyết định có thể hoàn tác cho phép bạn dũng cảm. Hôm nay, chọn một con đường bạn có thể quay lại.
