@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-05 05:00 ICT]**
+
+* **VI**: Chạy được là thắng lợi. Hoàn hảo là tiếp theo. Hôm nay, chạy.
+* **EN**: Working is winning. Perfect comes next. Today, make it run.
+
+---
+
 **[2026-09-04 05:00 ICT]**
 
 * **VI**: Nhầm lẫn là nơi hiểu biết bắt đầu. Hôm nay, ở lại thay vì vội vàng.
