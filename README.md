@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-06 05:00 ICT]**
+
+* **VI**: Bắt đầu nhỏ không phải thiếu tự tin. Nó là tôn trọng những gì bạn chưa biết. Hôm nay, bắt đầu nhỏ.
+* **EN**: Starting small isn't lack of confidence. It's respect for what you don't yet know. Today, begin small.
+
+---
+
 **[2026-09-05 05:00 ICT]**
 
 * **VI**: Chạy được là thắng lợi. Hoàn hảo là tiếp theo. Hôm nay, chạy.
