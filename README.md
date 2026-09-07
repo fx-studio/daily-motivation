@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-07 05:00 ICT]**
+
+* **VI**: Khi bế tắc, không phải vấn đề—đó là bạn. Hôm nay, rời khỏi nó và làm việc khác.
+* **EN**: When stuck, it's not the problem—it's you. Today, step away and work on something else.
+
+---
+
 **[2026-09-06 05:00 ICT]**
 
 * **VI**: Bắt đầu nhỏ không phải thiếu tự tin. Nó là tôn trọng những gì bạn chưa biết. Hôm nay, bắt đầu nhỏ.
