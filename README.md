@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-08 05:00 ICT]**
+
+* **VI**: Bạn đang xây dựng cho con người sẽ sửa lỗi này lúc 3 giờ sáng trong hoảng loạn. Hôm nay, viết một thông báo lỗi thực sự giúp được.
+* **EN**: You're building for people who will debug this at 3 AM in a panic. Today, write one error message that actually helps.
+
+---
+
 **[2026-09-07 05:00 ICT]**
 
 * **VI**: Khi bế tắc, không phải vấn đề—đó là bạn. Hôm nay, rời khỏi nó và làm việc khác.
