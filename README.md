@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-10 05:00 ICT]**
+
+* **VI**: Câu hỏi bạn hỏi định hình giải pháp bạn tìm. Câu hỏi sai, giải pháp sai. Hôm nay, hỏi đúng trước khi bắt đầu.
+* **EN**: The questions you ask shape the solution you find. Ask wrongly and you'll build the wrong thing. Today, ask right before you code.
+
+---
+
 **[2026-09-09 05:00 ICT]**
 
 * **VI**: Buổi sáng của bạn quyết định ngày của bạn. Hôm nay, bắt đầu bằng một mục tiêu rõ, không phải danh sách.
