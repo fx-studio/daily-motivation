@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-11 05:00 ICT]**
+
+* **VI**: Giả định cũ ẩn trong code. Hôm nay, tìm một và kiểm thử nó.
+* **EN**: Old assumptions hide in code. Today, find one and test it.
+
+---
+
 **[2026-09-10 05:00 ICT]**
 
 * **VI**: Câu hỏi bạn hỏi định hình giải pháp bạn tìm. Câu hỏi sai, giải pháp sai. Hôm nay, hỏi đúng trước khi bắt đầu.
