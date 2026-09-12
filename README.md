@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-12 05:00 ICT]**
+
+* **VI**: Não bạn chỉ giữ được một vấn đề cùng lúc. Gián đoạn nó, mất hàng giờ bối cảnh. Hôm nay, tránh một sao nhãng.
+* **EN**: Your brain can hold one problem at a time. Interrupt it and you lose hours of context. Today, avoid one distraction.
+
+---
+
 **[2026-09-11 05:00 ICT]**
 
 * **VI**: Giả định cũ ẩn trong code. Hôm nay, tìm một và kiểm thử nó.
