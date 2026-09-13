@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-13 05:00 ICT]**
+
+* **VI**: Sửa lỗi hai lần mà không hiểu nguyên nhân, bạn sẽ sửa lần thứ ba. Hôm nay, hiểu thay vì sửa.
+* **EN**: Fix a bug twice without understanding it, and you'll fix it a third time. Today, understand instead of patching.
+
+---
+
 **[2026-09-12 05:00 ICT]**
 
 * **VI**: Não bạn chỉ giữ được một vấn đề cùng lúc. Gián đoạn nó, mất hàng giờ bối cảnh. Hôm nay, tránh một sao nhãng.
