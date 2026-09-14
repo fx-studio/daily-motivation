@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-14 05:00 ICT]**
+
+* **VI**: Bạn hiểu một hệ thống khi bạn biết cái gì làm nó phá vỡ. Hôm nay, tìm một giới hạn.
+* **EN**: You understand a system when you know what breaks it. Today, find one limit.
+
+---
+
 **[2026-09-13 05:00 ICT]**
 
 * **VI**: Sửa lỗi hai lần mà không hiểu nguyên nhân, bạn sẽ sửa lần thứ ba. Hôm nay, hiểu thay vì sửa.
