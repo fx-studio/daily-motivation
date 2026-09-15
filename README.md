@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-15 05:00 ICT]**
+
+* **VI**: Bạn chỉ kiểm thử những gì bạn tưởng sẽ xảy ra. Lỗi ẩn ở những gì bạn không tưởng. Hôm nay, hãy phá vỡ một giả định.
+* **EN**: You test what you expect to happen. Bugs hide in what you don't. Today, break one assumption.
+
+---
+
 **[2026-09-14 05:00 ICT]**
 
 * **VI**: Bạn hiểu một hệ thống khi bạn biết cái gì làm nó phá vỡ. Hôm nay, tìm một giới hạn.
