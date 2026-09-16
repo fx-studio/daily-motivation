@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-16 05:00 ICT]**
+
+* **VI**: Câu hỏi chung chung không mở được gì. Câu hỏi cụ thể mở ra cánh cửa. Hôm nay, hỏi cụ thể.
+* **EN**: Broad questions open nothing. Specific questions open doors. Today, ask specifically.
+
+---
+
 **[2026-09-15 05:00 ICT]**
 
 * **VI**: Bạn chỉ kiểm thử những gì bạn tưởng sẽ xảy ra. Lỗi ẩn ở những gì bạn không tưởng. Hôm nay, hãy phá vỡ một giả định.
