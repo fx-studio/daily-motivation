@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-18 05:00 ICT]**
+
+* **VI**: Câu hỏi làm rõ mất phút. Giải pháp sai mất tuần. Hôm nay, hỏi trước khi xây dựng.
+* **EN**: Clarifying questions take minutes. Wrong solutions take weeks. Today, ask before you build.
+
+---
+
 **[2026-09-17 05:00 ICT]**
 
 * **VI**: Code hoạt động hoặc không hoạt động. Cảm xúc của bạn không thay đổi điều đó. Hôm nay, hãy để data nói chuyện.
