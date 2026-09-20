@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-20 05:00 ICT]**
+
+* **VI**: Làm ba lần trước khi trừu tượng. Hôm nay, hãy cụ thể.
+* **EN**: Do it three times before you abstract. Today, stay concrete.
+
+---
+
 **[2026-09-19 05:00 ICT]**
 
 * **VI**: Bối rối hơn 30 phút, đó là tín hiệu để hỏi. Hôm nay, hỏi sớm hơn.
