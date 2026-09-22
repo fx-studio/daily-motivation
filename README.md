@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-22 05:00 ICT]**
+
+* **VI**: Vấn đề được định rõ là vấn đề nửa được giải quyết. Hôm nay, định rõ một.
+* **EN**: A problem well-defined is half-solved. Today, define one clearly.
+
+---
+
 **[2026-09-21 05:00 ICT]**
 
 * **VI**: Suy ngẫm biến sai lầm thành bài học. Hôm nay, suy ngẫm về một cái.
