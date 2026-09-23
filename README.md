@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-23 05:00 ICT]**
+
+* **VI**: Tự tin mà không có kiến thức chỉ là diễn trò. Hôm nay, xác minh một giả định bạn đã tin tưởng.
+* **EN**: Confidence without knowledge is just acting. Today, verify one assumption you've been trusting.
+
+---
+
 **[2026-09-22 05:00 ICT]**
 
 * **VI**: Vấn đề được định rõ là vấn đề nửa được giải quyết. Hôm nay, định rõ một.
