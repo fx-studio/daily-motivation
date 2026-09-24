@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-24 05:00 ICT]**
+
+* **VI**: Viết không phải để nhớ—nó là để suy nghĩ rõ ràng. Hôm nay, viết về một vấn đề bạn đang gặp.
+* **EN**: Writing isn't for remembering—it's for thinking clearly. Today, write about one problem you're facing.
+
+---
+
 **[2026-09-23 05:00 ICT]**
 
 * **VI**: Tự tin mà không có kiến thức chỉ là diễn trò. Hôm nay, xác minh một giả định bạn đã tin tưởng.
