@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-25 05:00 ICT]**
+
+* **VI**: Bảo vệ ranh giới của bạn là bảo vệ chất lượng của bạn. Hôm nay, nói không với một cuộc gián đoạn.
+* **EN**: Protecting your boundaries is protecting your quality. Today, say no to one interruption.
+
+---
+
 **[2026-09-24 05:00 ICT]**
 
 * **VI**: Viết không phải để nhớ—nó là để suy nghĩ rõ ràng. Hôm nay, viết về một vấn đề bạn đang gặp.
