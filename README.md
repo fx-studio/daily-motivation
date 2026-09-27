@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-28 05:00 ICT]**
+
+* **VI**: Sự lớn lên ở những giới hạn khó. Tránh nó sẽ giữ bạn nhỏ bé. Hôm nay, đối mặt với một khó khăn.
+* **EN**: Growth lives at hard limits. Avoiding them keeps you small. Today, stay with one discomfort.
+
+---
+
 **[2026-09-27 05:00 ICT]**
 
 * **VI**: Vội vàng bây giờ là sửa lỗi mãi mãi. Chậm lại bây giờ là tự do sau. Hôm nay, chận lại một việc.
