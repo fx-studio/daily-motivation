@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-29 05:00 ICT]**
+
+* **VI**: Không biết nhanh hơn giả vờ. Hôm nay, thừa nhận những gì bạn không hiểu.
+* **EN**: Not knowing is faster than pretending. Today, admit what you don't understand.
+
+---
+
 **[2026-09-28 05:00 ICT]**
 
 * **VI**: Sự lớn lên ở những giới hạn khó. Tránh nó sẽ giữ bạn nhỏ bé. Hôm nay, đối mặt với một khó khăn.
