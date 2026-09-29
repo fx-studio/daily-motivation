@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-09-30 05:00 ICT]**
+
+* **VI**: Một góc nhìn duy nhất sẽ để bạn mù quáng. Hôm nay, mời một người khác xem.
+* **EN**: A single perspective will leave you blind. Today, invite someone else to look.
+
+---
+
 **[2026-09-29 05:00 ICT]**
 
 * **VI**: Không biết nhanh hơn giả vờ. Hôm nay, thừa nhận những gì bạn không hiểu.
