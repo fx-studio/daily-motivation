@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-03 05:00 ICT]**
+
+* **VI**: Vấn đề bạn không thể nêu rõ, bạn sẽ không thể sửa. Hôm nay, viết một vấn đề bạn đang gặp rõ ràng.
+* **EN**: A problem you can't state clearly, you can't fix. Today, write one you're facing clearly.
+
+---
+
 **[2026-10-02 05:00 ICT]**
 
 * **VI**: Tối ưu hóa mà không hiểu lãng phí thời gian. Hôm nay, tìm hiểu trước khi tăng tốc.
