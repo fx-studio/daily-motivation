@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-04 05:00 ICT]**
+
+* **VI**: Trừu tượng che giấu vấn đề. Cụ thể tiết lộ nó. Hôm nay, hãy cụ thể.
+* **EN**: Abstract masks problems. Concrete reveals them. Today, choose concrete.
+
+---
+
 **[2026-10-03 05:00 ICT]**
 
 * **VI**: Vấn đề bạn không thể nêu rõ, bạn sẽ không thể sửa. Hôm nay, viết một vấn đề bạn đang gặp rõ ràng.
