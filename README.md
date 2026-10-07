@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-07 05:00 ICT]**
+
+* **VI**: Đo hai lần, di chuyển một lần. Hôm nay, xác minh một điều bạn cho là đúng.
+* **EN**: Measure twice, move once. Today, verify one thing you're assuming is true.
+
+---
+
 **[2026-10-06 05:00 ICT]**
 
 * **VI**: Mô hình là sức mạnh. Lỗi riêng rẽ là cơm hàng ngày. Hôm nay, tìm mô hình thay vì chỉ sửa.
