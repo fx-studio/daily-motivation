@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-08 05:00 ICT]**
+
+* **VI**: Cảm giác chưa hoàn thành là tín hiệu. Hôm nay, lắng nghe nó.
+* **EN**: A nagging feeling means something's unfinished. Today, listen to it.
+
+---
+
 **[2026-10-07 05:00 ICT]**
 
 * **VI**: Đo hai lần, di chuyển một lần. Hôm nay, xác minh một điều bạn cho là đúng.
