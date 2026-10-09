@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-09 05:00 ICT]**
+
+* **VI**: Bạn không cần làm mọi việc để làm công việc tốt. Hôm nay, làm ít hơn, nhưng tốt hơn.
+* **EN**: You don't need to do everything to do work well. Today, do less but better.
+
+---
+
 **[2026-10-08 05:00 ICT]**
 
 * **VI**: Cảm giác chưa hoàn thành là tín hiệu. Hôm nay, lắng nghe nó.
