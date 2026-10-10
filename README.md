@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-10 05:00 ICT]**
+
+* **VI**: Kiểm thử kỹ từ đầu tốt hơn sửa chữa vội vàng sau. Hôm nay, kiểm thử một thứ thật kỹ.
+* **EN**: Thorough testing upfront beats rushed fixing later. Today, test one thing really well.
+
+---
+
 **[2026-10-09 05:00 ICT]**
 
 * **VI**: Bạn không cần làm mọi việc để làm công việc tốt. Hôm nay, làm ít hơn, nhưng tốt hơn.
