@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-11 05:00 ICT]**
+
+* **VI**: Một giả định sai lầm sẽ nhân bản qua code. Hôm nay, tìm một và sửa ở gốc, không phải triệu chứng.
+* **EN**: One wrong assumption replicates across your code. Today, find one and fix at the root, not the symptoms.
+
+---
+
 **[2026-10-10 05:00 ICT]**
 
 * **VI**: Kiểm thử kỹ từ đầu tốt hơn sửa chữa vội vàng sau. Hôm nay, kiểm thử một thứ thật kỹ.
