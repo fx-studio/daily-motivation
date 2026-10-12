@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-13 05:00 ICT]**
+
+* **VI**: Tài liệu tốt là tặng quà cho bản thân bạn trong tương lai. Hôm nay, viết một khi bạn vẫn nhớ tại sao.
+* **EN**: Good documentation is a gift to your future self. Today, write one while you still remember why.
+
+---
+
 **[2026-10-11 05:00 ICT]**
 
 * **VI**: Một giả định sai lầm sẽ nhân bản qua code. Hôm nay, tìm một và sửa ở gốc, không phải triệu chứng.
