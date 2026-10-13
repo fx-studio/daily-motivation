@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-14 05:17 ICT]**
+
+* **VI**: Lịch sử commit của bạn hoặc giải thích tư duy, hoặc khiến những người sau này phải nguyền rủa. Hôm nay, viết một commit kể chuyện về tại sao.
+* **EN**: Your commit history either explains your thinking or makes future maintainers curse you. Today, write one that tells the story of why.
+
+---
+
 **[2026-10-13 05:00 ICT]**
 
 * **VI**: Tài liệu tốt là tặng quà cho bản thân bạn trong tương lai. Hôm nay, viết một khi bạn vẫn nhớ tại sao.
