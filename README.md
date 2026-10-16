@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-16 05:00 ICT]**
+
+* **VI**: Biết khi dừng lại là kỹ năng quan trọng như biết khi bắt đầu. Hôm nay, đủ tốt là tốt.
+* **EN**: Knowing when to stop is as important as knowing when to start. Today, good enough is good.
+
+---
+
 **[2026-10-15 05:01 ICT]**
 
 * **VI**: Một dòng bỏ không có vẻ gì. Mã phồng lên từ hàng ngàn những thứ nhỏ bị quên. Hôm nay, đơn giản hóa một phần.
