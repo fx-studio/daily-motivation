@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-17 05:00 ICT]**
+
+* **VI**: Đơn giản và lười biếng không phải cùng một thứ. Đơn giản là công việc vất vả. Hôm nay, làm công việc vất vả ấy.
+* **EN**: Simple and lazy are not the same thing. Simplicity is hard work. Today, do that work.
+
+---
+
 **[2026-10-16 05:00 ICT]**
 
 * **VI**: Biết khi dừng lại là kỹ năng quan trọng như biết khi bắt đầu. Hôm nay, đủ tốt là tốt.
