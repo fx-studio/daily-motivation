@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-21 05:00 ICT]**
+
+* **VI**: Cách bạn hỏi quyết định cách bạn trả lời. Hôm nay, hỏi như một người tò mò, không phải như một người biết.
+* **EN**: How you ask shapes how you answer. Today, ask like someone curious, not someone who knows.
+
+---
+
 **[2026-10-19 05:00 ICT]**
 
 * **VI**: Vòng phản hồi nhỏ đánh bại đoán mò. Xây dựng một thứ, nhìn thấy nó, học từ nó. Hôm nay, đóng một vòng.
