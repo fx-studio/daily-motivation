@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-22 05:00 ICT]**
+
+* **VI**: Một không nhất quán nhỏ trở thành mô hình bạn sẽ copy ở khắp nơi. Hôm nay, sửa một cái bạn đã bỏ qua.
+* **EN**: One small inconsistency becomes a pattern you'll copy everywhere. Today, fix one you've been tolerating.
+
+---
+
 **[2026-10-21 05:00 ICT]**
 
 * **VI**: Một ngày bỏ qua là khi bỏ qua trở nên dễ dàng. Hôm nay, không bỏ qua.
