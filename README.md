@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-23 05:00 ICT]**
+
+* **VI**: Code viết không nói gì. Code chạy nói toàn bộ. Hôm nay, xem nó một lần thay vì đoán.
+* **EN**: Written code says nothing. Running code tells everything. Today, watch it once instead of guessing.
+
+---
+
 **[2026-10-22 05:00 ICT]**
 
 * **VI**: Một không nhất quán nhỏ trở thành mô hình bạn sẽ copy ở khắp nơi. Hôm nay, sửa một cái bạn đã bỏ qua.
