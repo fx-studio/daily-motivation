@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-24 05:00 ICT]**
+
+* **VI**: Một việc làm tốt hơn mười việc làm vừa phải. Hôm nay, chọn chất lượng.
+* **EN**: One thing done well beats ten done okay. Today, choose quality.
+
+---
+
 **[2026-10-23 05:00 ICT]**
 
 * **VI**: Code viết không nói gì. Code chạy nói toàn bộ. Hôm nay, xem nó một lần thay vì đoán.
