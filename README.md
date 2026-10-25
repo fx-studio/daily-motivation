@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-25 05:00 ICT]**
+
+* **VI**: Thấy sai lầm của bạn trong code cũ dạy hơn viết code mới. Hôm nay, xem lại.
+* **EN**: Seeing your own mistakes in old code teaches more than writing new code. Today, look back.
+
+---
+
 **[2026-10-24 05:00 ICT]**
 
 * **VI**: Một việc làm tốt hơn mười việc làm vừa phải. Hôm nay, chọn chất lượng.
