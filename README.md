@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-26 05:00 ICT]**
+
+* **VI**: Năng lượng cao tấn công vấn đề khó. Năng lượng thấp kiếm thắng lợi nhỏ. Hôm nay, biết sự khác biệt.
+* **EN**: Peak energy tackles hard problems. Low energy earns small wins. Today, know the difference.
+
+---
+
 **[2026-10-25 05:00 ICT]**
 
 * **VI**: Thấy sai lầm của bạn trong code cũ dạy hơn viết code mới. Hôm nay, xem lại.
