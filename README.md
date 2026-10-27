@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-27 05:00 ICT]**
+
+* **VI**: Bình luận cũ là những kẻ thù giấu kín. Code tiến hóa; bình luận không. Hôm nay, xóa một cái.
+* **EN**: Old comments are hidden enemies. Code evolves; comments don't. Today, delete one.
+
+---
+
 **[2026-10-26 05:00 ICT]**
 
 * **VI**: Năng lượng cao tấn công vấn đề khó. Năng lượng thấp kiếm thắng lợi nhỏ. Hôm nay, biết sự khác biệt.
