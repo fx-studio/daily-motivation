@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-30 05:00 ICT]**
+
+* **VI**: Làm quen với code lạ như đọc sách. Chậm, suy tư, ghi chú. Hôm nay, hãy suy tư thay vì lướt qua.
+* **EN**: Approaching new code is like reading a book. Slow, thoughtful, annotated. Today, think instead of skimming.
+
+---
+
 **[2026-10-28 05:00 ICT]**
 
 * **VI**: Hoàn thành trong yên lặng không dạy gì. Chia sẻ khi xây dựng dạy mọi thứ. Hôm nay, trình bày công việc chưa xong.
