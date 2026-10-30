@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-31 05:15 ICT]**
+
+* **VI**: Vấn đề nhỏ phát hiện sớm sẽ nhỏ. Bỏ qua, nó sẽ lớn qua đêm. Hôm nay, bắt nó lúc còn dễ sửa.
+* **EN**: Small problems caught early stay small. Ignored, they grow overnight. Today, catch one while it's cheap to fix.
+
+---
+
 **[2026-10-30 05:00 ICT]**
 
 * **VI**: Làm quen với code lạ như đọc sách. Chậm, suy tư, ghi chú. Hôm nay, hãy suy tư thay vì lướt qua.
