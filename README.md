@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-10-31 05:00 ICT]**
+
+* **VI**: Tự tin là nguy hiểm; hoài nghi là bảo mật miễn phí. Hôm nay, câu hỏi một giả định.
+* **EN**: Confidence is dangerous; skepticism is free security. Today, question one assumption.
+
+---
+
 **[2026-10-31 05:15 ICT]**
 
 * **VI**: Vấn đề nhỏ phát hiện sớm sẽ nhỏ. Bỏ qua, nó sẽ lớn qua đêm. Hôm nay, bắt nó lúc còn dễ sửa.
