@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-05 05:00 ICT]**
+
+* **VI**: Thông tin hoàn chỉnh không bao giờ đến. Quyết định với cái bạn có. Hôm nay, chọn dù còn mơ hồ.
+* **EN**: Complete information never arrives. Decide with what you have. Today, choose despite uncertainty.
+
+---
+
 **[2026-11-04 05:00 ICT]**
 
 * **VI**: Bản năng không phải phép màu—nó là kinh nghiệm vô tùng. Hôm nay, tin tưởng cái bạn vừa cảm nhận.
