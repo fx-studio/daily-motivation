@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-06 05:00 ICT]**
+
+* **VI**: Bộ nhớ bạn nói dối. Hôm nay, kiểm tra code thay vì tin nhớ.
+* **EN**: Your memory lies. Today, check the code instead of trusting recall.
+
+---
+
 **[2026-11-05 05:00 ICT]**
 
 * **VI**: Thông tin hoàn chỉnh không bao giờ đến. Quyết định với cái bạn có. Hôm nay, chọn dù còn mơ hồ.
