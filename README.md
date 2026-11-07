@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-07 05:00 ICT]**
+
+* **VI**: Những thứ hiển nhiên bị bỏ qua. Hôm nay, kiểm tra những gì bạn chắc chắn rồi.
+* **EN**: The obvious gets skipped. Today, check what you're sure about.
+
+---
+
 **[2026-11-06 05:00 ICT]**
 
 * **VI**: Bộ nhớ bạn nói dối. Hôm nay, kiểm tra code thay vì tin nhớ.
