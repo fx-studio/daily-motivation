@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-08 05:00 ICT]**
+
+* **VI**: Bạn giả định về những gì không bao giờ thử. Hôm nay, thử cái bạn chắc chắn sẽ thất bại.
+* **EN**: You assume about what you've never tried. Today, try the thing you're sure will fail.
+
+---
+
 **[2026-11-07 05:00 ICT]**
 
 * **VI**: Những thứ hiển nhiên bị bỏ qua. Hôm nay, kiểm tra những gì bạn chắc chắn rồi.
