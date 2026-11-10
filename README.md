@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-11 05:18 ICT]**
+
+* **VI**: Làm cho nó hoạt động. Làm cho nó đúng. Làm cho nó nhanh. Bỏ qua pha và bạn sẽ thất bại cả ba. Hôm nay, biết bạn đang ở pha nào.
+* **EN**: Make it work. Make it right. Make it fast. Skip phases and you fail all three. Today, know which phase you're in.
+
+---
+
 **[2026-11-09 05:00 ICT]**
 
 * **VI**: Dọn dẹp hôm nay là sự sáng suốt ngày mai. Hôm nay, làm sạch một phần.
