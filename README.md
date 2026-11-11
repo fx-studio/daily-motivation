@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-12 05:00 ICT]**
+
+* **VI**: Lỗi tốt nhất là lỗi bạn phát hiện trước khi gửi. Hôm nay, tìm một.
+* **EN**: The best bug is one you catch before shipping. Today, find one.
+
+---
+
 **[2026-11-11 05:18 ICT]**
 
 * **VI**: Làm cho nó hoạt động. Làm cho nó đúng. Làm cho nó nhanh. Bỏ qua pha và bạn sẽ thất bại cả ba. Hôm nay, biết bạn đang ở pha nào.
