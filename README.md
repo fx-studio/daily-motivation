@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-12 05:01 ICT]**
+
+* **VI**: Hiểu bối cảnh trước khi tìm lỗi. Lỗi không tồn tại ngoài hoàn cảnh. Hôm nay, đặt câu hỏi trước khi bắt đầu.
+* **EN**: Understand context before hunting the bug. Bugs don't exist outside context. Today, ask questions before you start.
+
+---
+
 **[2026-11-12 05:00 ICT]**
 
 * **VI**: Lỗi tốt nhất là lỗi bạn phát hiện trước khi gửi. Hôm nay, tìm một.
