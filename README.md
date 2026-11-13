@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-14 05:15 ICT]**
+
+* **VI**: Code tốt nói cho bản thân nó, nhưng không phải luôn luôn. Hôm nay, viết một nhận xét rõ ràng cho những nơi khó hiểu.
+* **EN**: Good code speaks for itself, but not always. Today, write one clear comment where confusion lives.
+
+---
+
 **[2026-11-12 05:01 ICT]**
 
 * **VI**: Hiểu bối cảnh trước khi tìm lỗi. Lỗi không tồn tại ngoài hoàn cảnh. Hôm nay, đặt câu hỏi trước khi bắt đầu.
