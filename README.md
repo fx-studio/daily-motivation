@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-15 05:13 ICT]**
+
+* **VI**: Suy nghĩ sâu là công việc khó hơn gõ code. Hôm nay, cho nó thời gian xứng đáng.
+* **EN**: Deep thinking is harder work than coding. Today, give it the time it deserves.
+
+---
+
 **[2026-11-14 05:15 ICT]**
 
 * **VI**: Code tốt nói cho bản thân nó, nhưng không phải luôn luôn. Hôm nay, viết một nhận xét rõ ràng cho những nơi khó hiểu.
