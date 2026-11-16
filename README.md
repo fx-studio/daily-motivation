@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-16 05:00 ICT]**
+
+* **VI**: Sản xuất dạy những gì staging không thể. Hôm nay, lắng nghe người dùng.
+* **EN**: Production teaches what staging can't. Today, listen to real usage.
+
+---
+
 **[2026-11-15 05:14 ICT]**
 
 * **VI**: Code bạn chạm vào trở thành của bạn để sở hữu. Hôm nay, hãy chịu trách nhiệm cho một thứ và cải thiện nó.
@@ -34,6 +41,10 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> 70c98e1 (chore: daily motivation 2026-11-16)
 **[2026-11-12 05:00 ICT]**
 
 * **VI**: Lỗi tốt nhất là lỗi bạn phát hiện trước khi gửi. Hôm nay, tìm một.
