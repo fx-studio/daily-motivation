@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-18 05:00 ICT]**
+
+* **VI**: "Tôi sẽ tái cấu trúc sau" là một lời nói dối đẹp đẽ. Trả nợ kỹ thuật ngay. Hôm nay, làm sạch cái bạn vừa chạm.
+* **EN**: "I'll refactor later" is a beautiful lie. Pay down technical debt now. Today, clean what you just touched.
+
+---
+
 **[2026-11-17 05:00 ICT]**
 
 * **VI**: Đo lường cái bạn không thể cảm nhận. Số không nói dối. Hôm nay, kiểm tra một thứ.
@@ -48,10 +55,6 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> 70c98e1 (chore: daily motivation 2026-11-16)
 **[2026-11-12 05:00 ICT]**
 
 * **VI**: Lỗi tốt nhất là lỗi bạn phát hiện trước khi gửi. Hôm nay, tìm một.
