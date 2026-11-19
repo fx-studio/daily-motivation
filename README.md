@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-19 05:00 ICT]**
+
+* **VI**: Giới hạn không phải cản trở—là soi chiếu. Chúng buộc bạn chọn những gì quan trọng thực sự. Hôm nay, làm việc dưới một ràng buộc.
+* **EN**: Limits aren't obstacles—they're clarity. They force you to choose what truly matters. Today, work under one constraint.
+
+---
+
 **[2026-11-18 05:00 ICT]**
 
 * **VI**: "Tôi sẽ tái cấu trúc sau" là một lời nói dối đẹp đẽ. Trả nợ kỹ thuật ngay. Hôm nay, làm sạch cái bạn vừa chạm.
