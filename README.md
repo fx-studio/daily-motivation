@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-20 05:00 ICT]**
+
+* **VI**: Bằng chứng thắng niềm tin. Hôm nay, tìm nó.
+* **EN**: Evidence beats assumption. Today, seek it.
+
+---
+
 **[2026-11-19 05:00 ICT]**
 
 * **VI**: Giới hạn không phải cản trở—là soi chiếu. Chúng buộc bạn chọn những gì quan trọng thực sự. Hôm nay, làm việc dưới một ràng buộc.
