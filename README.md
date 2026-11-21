@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-21 05:00 ICT]**
+
+* **VI**: Thay đổi luôn cảm thấy sai lúc đầu. Hôm nay, ở lại với sự lạ lẫm thay vì chống lại.
+* **EN**: Change always feels wrong at first. Today, stay with the unfamiliarity instead of fighting it.
+
+---
+
 **[2026-11-20 05:00 ICT]**
 
 * **VI**: Bằng chứng thắng niềm tin. Hôm nay, tìm nó.
