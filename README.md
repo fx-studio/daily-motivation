@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-22 05:00 ICT]**
+
+* **VI**: Giải thích lại là tìm ra lỗi của mình. Hôm nay, giải thích vấn đề cho ai đó rồi nghe bạn nói.
+* **EN**: Explaining is how you find your own mistakes. Today, explain one problem out loud to someone.
+
+---
+
 **[2026-11-21 05:00 ICT]**
 
 * **VI**: Thay đổi luôn cảm thấy sai lúc đầu. Hôm nay, ở lại với sự lạ lẫm thay vì chống lại.
