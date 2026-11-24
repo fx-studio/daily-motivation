@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-24 05:00 ICT]**
+
+* **VI**: Tò mò tốn kém ít hơn những giả định sai. Hôm nay, kiểm chứng cái bạn cho là chắc chắn.
+* **EN**: Curiosity costs less than wrong assumptions. Today, verify what you're sure about.
+
+---
+
 **[2026-11-23 05:00 ICT]**
 
 * **VI**: Chơi không phí thời gian—nó là khi bộ óc giải quyết vấn đề bạn không biết bạn có. Hôm nay, thử thứ gì đó lạ lẫm.
