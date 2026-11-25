@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-25 05:00 ICT]**
+
+* **VI**: Tự tin mà không xác minh chỉ là hy vọng. Hôm nay, kiểm thử một giả định.
+* **EN**: Confidence without verification is just hope. Today, test one assumption.
+
+---
+
 **[2026-11-24 05:00 ICT]**
 
 * **VI**: Tò mò tốn kém ít hơn những giả định sai. Hôm nay, kiểm chứng cái bạn cho là chắc chắn.
