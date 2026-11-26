@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-26 05:00 ICT]**
+
+* **VI**: Mười lăm phút bối rối là tín hiệu để lùi lại, không phải cố gắng thêm. Hôm nay, hãy thay đổi góc nhìn thay vì ép buộc giải pháp.
+* **EN**: Fifteen minutes of confusion is a signal to back up, not push harder. Today, change your angle instead of forcing the solution.
+
+---
+
 **[2026-11-25 05:00 ICT]**
 
 * **VI**: Tự tin mà không xác minh chỉ là hy vọng. Hôm nay, kiểm thử một giả định.
