@@ -6,6 +6,13 @@ Mỗi 5h sáng, một câu động lực mới được tự động thêm bởi
 
 ---
 
+**[2026-11-27 05:00 ICT]**
+
+* **VI**: Bạn mù về những gì bạn nhìn hàng ngày. Mắt lạ mở con mắt bạn. Hôm nay, nói vấn đề của bạn với ai đó.
+* **EN**: You're blind to what you see every day. Fresh eyes see clearly. Today, tell someone your problem.
+
+---
+
 **[2026-11-26 05:00 ICT]**
 
 * **VI**: Mười lăm phút bối rối là tín hiệu để lùi lại, không phải cố gắng thêm. Hôm nay, hãy thay đổi góc nhìn thay vì ép buộc giải pháp.
